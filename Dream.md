@@ -15,3 +15,4 @@ List of practices and processes that would make up a dream devops setup:
 + Pull Request Templates
 + Backward compatible
 + Proactive Monitoring and telemetry . Get to the issue before the end user.
++ Rotating DRI(Directly Responsible Individual) in teams
