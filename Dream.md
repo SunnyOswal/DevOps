@@ -13,3 +13,4 @@ List of practices and processes that would make up a dream devops setup:
 + High performance
 + Always Available
 + Pull Request Templates
++ Backward compatible
