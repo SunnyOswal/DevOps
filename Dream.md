@@ -11,4 +11,5 @@ List of practices and processes that would make up a dream devops setup:
 + Single point of API security and governance
 + Handle spikes in traffice
 + High performance
-+ Always Available 
++ Always Available
++ Pull Request Templates
