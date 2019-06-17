@@ -14,3 +14,4 @@ List of practices and processes that would make up a dream devops setup:
 + Always Available
 + Pull Request Templates
 + Backward compatible
++ Proactive Monitoring and telemetry . Get to the issue before the end user.
